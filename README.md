@@ -14,4 +14,4 @@ Repo created by Baran Parkın 2305041025 for mid-terms for lecture of DGD203 - G
 
 Clone the repository by running the following command in your terminal
 ```bash
-https://github.com/styslix7/DGD203-BaranParkin-MidTerm
+git clone https://github.com/styslix7/DGD203-BaranParkin-MidTerm
