@@ -2,7 +2,7 @@
 
 //hello, I did this project in a space-theme again just like our first assignment
 //to make it better i also added charcater dialogues depending on your answers
-//if you remember my "writing and storytelling for games" final project, the charcaters are from there: sylas vortex and aria nova
+//if you remember my "writing and storytelling for games" final project, the characters are from there: sylas vortex and aria nova
 //i did took some help from chatgpt honestly because instead of just making basic questions i made it more like a short twine game
 
 namespace SpaceGame
